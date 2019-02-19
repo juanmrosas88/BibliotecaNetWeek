@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">netWeek</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+
+    <string-array name="Categorias_array">
+        <item>Aventuras</item>
+        <item>Suspenso</item>
+        <item>Fantasia</item>
+        <item>Terror</item>
+    </string-array>
+
+</resources>
